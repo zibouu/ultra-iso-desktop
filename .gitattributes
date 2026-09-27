@@ -1,0 +1,12 @@
+# Default behavior
+# Configuration for git attributes
+src/*.ts linguist-detectable
+public/*.html linguist-vendored
+*.bat text eol=crlf
+*.woff2 binary
+
+*.json linguist-detectable=false
+*.min.css linguist-generated
+*.sh text eol=lf
+src/**/*.ts linguist-detectable
+*.ico binary
