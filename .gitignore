@@ -1,0 +1,6 @@
+.cache/
+.pnpm-store/
+*.tgz
+node_modules/
+dist/
+.env.local
